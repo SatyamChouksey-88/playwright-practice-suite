@@ -1,9 +1,7 @@
-﻿# Moved
+﻿# playwright-practice-suite (redirect)
 
-This project now lives in the **all-in-one** repo:
+Advanced Playwright UI practice (drag-drop, iframes, multi-tab, uploads, dialogs) lives in the monorepo:
 
-**https://github.com/SatyamChouksey-88/playwright-qa-learning**
+**[playwright-qa-learning](https://github.com/SatyamChouksey-88/playwright-qa-learning)** → open the **`practice-suite/`** folder.
 
-→ Open the `practice-suite/` folder there.
-
-The split repos are kept only as pointers; use the monorepo going forward.
+This split repo is a pointer for old links only; new work happens in the monorepo.
